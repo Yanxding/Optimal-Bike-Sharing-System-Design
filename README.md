@@ -1,1 +1,2 @@
 # Optimal-Bike-Sharing-System-Design
+Optimal planning of bike sharing system in west Philadelphia. The objective is to minimize systems cost (both installation and operations costs) and to maximize service (accessibility to sharing bikes) in dynamic demands. The problem is formulated as a integer linear programming (ILP) problem. It is implemented and solved using the GAMS solver. Due to the complexity of the problem, linear relaxation is applied when actually solving the problem.
